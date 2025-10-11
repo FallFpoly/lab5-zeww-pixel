@@ -21,7 +21,7 @@ public class bai1 {
             System.out.print("Nhập số thực: ");
             Double x = scanner.nextDouble();
             list.add(x);
-            scanner.nextLine(); // Đọc bỏ ký tự xuống dòng sau nextDouble
+            scanner.nextLine(); 
 
             System.out.print("Nhập thêm (Y/N)? ");
             String tiepTuc = scanner.nextLine();
