@@ -17,8 +17,8 @@ public class bai2 {
     public static void main(String[] args) {
         ArrayList<String> danhSach = new ArrayList<>();
         Scanner scanner = new Scanner(System.in);
+               System.out.println("Nghia");
         int chon;
-
         do {
             System.out.println("\n===== MENU =====");
             System.out.println("1. Nhập danh sách họ và tên");

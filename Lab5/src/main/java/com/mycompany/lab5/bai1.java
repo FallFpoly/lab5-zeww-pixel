@@ -16,7 +16,7 @@ public class bai1 {
     public static void main(String[] args) {
         ArrayList<Double> list = new ArrayList<>();
         Scanner scanner = new Scanner(System.in);
-
+        System.out.println("Nghia");
         while (true) {
             System.out.print("Nhập số thực: ");
             Double x = scanner.nextDouble();
@@ -36,7 +36,6 @@ public class bai1 {
             System.out.println(so);
             tong += so;
         }
-
         System.out.println("Tổng các số: " + tong);
     }
 }

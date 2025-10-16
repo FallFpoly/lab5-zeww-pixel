@@ -18,6 +18,7 @@ public class bai3 {
     public static void main(String[] args) {
         ArrayList<SanPham> danhSach = new ArrayList<>();
         Scanner scanner = new Scanner(System.in);
+        System.out.println("Nghia");
         int chon;
 
         do {
